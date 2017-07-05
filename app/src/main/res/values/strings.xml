@@ -3,4 +3,5 @@
     <string name="alt_app_name">The Magnificent Word Counter</string>
     <string name="sentence">Type a sentence</string>
     <string name="count">Count Words</string>
+    <string name="answer_activity_title">Your word count is...</string>
 </resources>
